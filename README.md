@@ -9,7 +9,7 @@ are at (ex. 1, 2, 3, etc). Typing in an invalid input (such as "kaisa ", "KAISA"
 
 It is pretty janky, and there is 100% better ways to write the code, but whatever it works. 
 
-NOTE: I don't think the odds are 100% correct, and if somebody has a fix for that feel free, but it is an accurate enough estimate. 
+NOTE: I don't think the odds are 100% correct, but it is an accurate enough estimate. 
       Also, this is the odds of getting the desired unit FOR EACH SLOT IN YOUR SHOP, so the actual odds can be up to 5x that of what the calculator returns. 
 
 Made by: Troy Costew, League ign: tuburn
