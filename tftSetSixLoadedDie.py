@@ -1,5 +1,5 @@
 #This code takes in the unit that you want to hit and your level, and returns the odds of hitting the champ if you use a loaded die on each unit that shares a synergy.
-
+#Made by Troy Costew; League ign: tuburn
 
 
 #number of units in each synergy, and the levels of the units in said synergy
